@@ -20,4 +20,3 @@ http://localhost:4000/api/v1/product
 Order
 http://localhost:4000/api/v1/order
 Above are the end point from product and order get started
-
